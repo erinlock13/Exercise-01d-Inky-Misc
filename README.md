@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Erin Lock
 
-# Your Github username
+# erinlock13
